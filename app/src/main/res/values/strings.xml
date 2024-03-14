@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="top_bar_label">Todo List</string>
+    <string name="input_placeholder">Add a new item...</string>
+</resources>
